@@ -1,0 +1,616 @@
+{
+  "concept_count": 100,
+  "category_counts": [
+    20,
+    15,
+    15,
+    20,
+    15,
+    8,
+    7
+  ],
+  "unique_slugs": 100,
+  "missing_sections": [],
+  "concepts": [
+    {
+      "id": 1,
+      "kazakh": "Намыс",
+      "slug": "namys",
+      "sections": 9
+    },
+    {
+      "id": 2,
+      "kazakh": "Обал",
+      "slug": "obal",
+      "sections": 9
+    },
+    {
+      "id": 3,
+      "kazakh": "Сауап",
+      "slug": "sauap",
+      "sections": 9
+    },
+    {
+      "id": 4,
+      "kazakh": "Құт",
+      "slug": "qut",
+      "sections": 9
+    },
+    {
+      "id": 5,
+      "kazakh": "Ұят",
+      "slug": "uy-at-uyat",
+      "sections": 9
+    },
+    {
+      "id": 6,
+      "kazakh": "Ар",
+      "slug": "ar",
+      "sections": 9
+    },
+    {
+      "id": 7,
+      "kazakh": "Иман",
+      "slug": "iman",
+      "sections": 9
+    },
+    {
+      "id": 8,
+      "kazakh": "Ынсап",
+      "slug": "ynsap",
+      "sections": 9
+    },
+    {
+      "id": 9,
+      "kazakh": "Қанағат",
+      "slug": "qanagat-qanagat",
+      "sections": 9
+    },
+    {
+      "id": 10,
+      "kazakh": "Сабыр",
+      "slug": "sabyr",
+      "sections": 9
+    },
+    {
+      "id": 11,
+      "kazakh": "Тәубе",
+      "slug": "taube-taube",
+      "sections": 9
+    },
+    {
+      "id": 12,
+      "kazakh": "Аманат",
+      "slug": "amanat",
+      "sections": 9
+    },
+    {
+      "id": 13,
+      "kazakh": "Кісілік",
+      "slug": "kisilik",
+      "sections": 9
+    },
+    {
+      "id": 14,
+      "kazakh": "Парыз",
+      "slug": "paryz",
+      "sections": 9
+    },
+    {
+      "id": 15,
+      "kazakh": "Ынтымақ",
+      "slug": "yntymaq",
+      "sections": 9
+    },
+    {
+      "id": 16,
+      "kazakh": "Береке",
+      "slug": "bereke",
+      "sections": 9
+    },
+    {
+      "id": 17,
+      "kazakh": "Бірлік",
+      "slug": "birlik",
+      "sections": 9
+    },
+    {
+      "id": 18,
+      "kazakh": "Ағайын",
+      "slug": "agaiyn-agaiyn",
+      "sections": 9
+    },
+    {
+      "id": 19,
+      "kazakh": "Адалдық",
+      "slug": "adaldyq",
+      "sections": 9
+    },
+    {
+      "id": 20,
+      "kazakh": "Кеңдік",
+      "slug": "kendik-kendik",
+      "sections": 9
+    },
+    {
+      "id": 21,
+      "kazakh": "Асар",
+      "slug": "asar",
+      "sections": 9
+    },
+    {
+      "id": 22,
+      "kazakh": "Қонақжайлық",
+      "slug": "qonaqzhailyq",
+      "sections": 9
+    },
+    {
+      "id": 23,
+      "kazakh": "Қонақасы",
+      "slug": "qonaqasy",
+      "sections": 9
+    },
+    {
+      "id": 24,
+      "kazakh": "Ерулік",
+      "slug": "erulik",
+      "sections": 9
+    },
+    {
+      "id": 25,
+      "kazakh": "Сыбаға",
+      "slug": "sybaga",
+      "sections": 9
+    },
+    {
+      "id": 26,
+      "kazakh": "Сарқыт",
+      "slug": "sarqyt",
+      "sections": 9
+    },
+    {
+      "id": 27,
+      "kazakh": "Көрімдік",
+      "slug": "korimdik",
+      "sections": 9
+    },
+    {
+      "id": 28,
+      "kazakh": "Бастаңғы",
+      "slug": "bastangy",
+      "sections": 9
+    },
+    {
+      "id": 29,
+      "kazakh": "Жылу жинау",
+      "slug": "jyly-jinay",
+      "sections": 9
+    },
+    {
+      "id": 30,
+      "kazakh": "Енші",
+      "slug": "enshi",
+      "sections": 9
+    },
+    {
+      "id": 31,
+      "kazakh": "Ат мінгізіп, шапан жабу",
+      "slug": "at-mingizip-shapan-jaby",
+      "sections": 9
+    },
+    {
+      "id": 32,
+      "kazakh": "Бата",
+      "slug": "bata",
+      "sections": 9
+    },
+    {
+      "id": 33,
+      "kazakh": "Тілек",
+      "slug": "tilek",
+      "sections": 9
+    },
+    {
+      "id": 34,
+      "kazakh": "Ағайынгершілік",
+      "slug": "agayyngershilik",
+      "sections": 9
+    },
+    {
+      "id": 35,
+      "kazakh": "Жомарттық",
+      "slug": "jomarttyq",
+      "sections": 9
+    },
+    {
+      "id": 36,
+      "kazakh": "Жеті ата",
+      "slug": "jeti-ata",
+      "sections": 9
+    },
+    {
+      "id": 37,
+      "kazakh": "Ру",
+      "slug": "ru",
+      "sections": 9
+    },
+    {
+      "id": 38,
+      "kazakh": "Жүз",
+      "slug": "juz",
+      "sections": 9
+    },
+    {
+      "id": 39,
+      "kazakh": "Ата жұрт",
+      "slug": "ata-jurt",
+      "sections": 9
+    },
+    {
+      "id": 40,
+      "kazakh": "Туған жер",
+      "slug": "tugan-jer",
+      "sections": 9
+    },
+    {
+      "id": 41,
+      "kazakh": "Нағашы",
+      "slug": "nagashy",
+      "sections": 9
+    },
+    {
+      "id": 42,
+      "kazakh": "Жиен",
+      "slug": "zhiyen",
+      "sections": 9
+    },
+    {
+      "id": 43,
+      "kazakh": "Бөле",
+      "slug": "bole",
+      "sections": 9
+    },
+    {
+      "id": 44,
+      "kazakh": "Құда",
+      "slug": "quda",
+      "sections": 9
+    },
+    {
+      "id": 45,
+      "kazakh": "Құдалық",
+      "slug": "qudalyq",
+      "sections": 9
+    },
+    {
+      "id": 46,
+      "kazakh": "Құдағи",
+      "slug": "qudagy",
+      "sections": 9
+    },
+    {
+      "id": 47,
+      "kazakh": "Абысын",
+      "slug": "abysyn",
+      "sections": 9
+    },
+    {
+      "id": 48,
+      "kazakh": "Қайын жұрт",
+      "slug": "qaiyn-jurt",
+      "sections": 9
+    },
+    {
+      "id": 49,
+      "kazakh": "Ата-баба",
+      "slug": "ata-baba",
+      "sections": 9
+    },
+    {
+      "id": 50,
+      "kazakh": "Ұрпақ сабақтастығы",
+      "slug": "urpaq-sabaqtastygy",
+      "sections": 9
+    },
+    {
+      "id": 51,
+      "kazakh": "Тұсаукесер",
+      "slug": "tusaukeser",
+      "sections": 9
+    },
+    {
+      "id": 52,
+      "kazakh": "Бесікке салу",
+      "slug": "besikke-salu",
+      "sections": 9
+    },
+    {
+      "id": 53,
+      "kazakh": "Шілдехана",
+      "slug": "shildekhana",
+      "sections": 9
+    },
+    {
+      "id": 54,
+      "kazakh": "Қырқынан шығару",
+      "slug": "qyrqynan-shygaru",
+      "sections": 9
+    },
+    {
+      "id": 55,
+      "kazakh": "Ат қою",
+      "slug": "at-qoyu",
+      "sections": 9
+    },
+    {
+      "id": 56,
+      "kazakh": "Сүндет той",
+      "slug": "sunnet-toi",
+      "sections": 9
+    },
+    {
+      "id": 57,
+      "kazakh": "Тілашар",
+      "slug": "tilashar",
+      "sections": 9
+    },
+    {
+      "id": 58,
+      "kazakh": "Сырға салу",
+      "slug": "syrga-salu",
+      "sections": 9
+    },
+    {
+      "id": 59,
+      "kazakh": "Қыз ұзату",
+      "slug": "qyz-uzatu",
+      "sections": 9
+    },
+    {
+      "id": 60,
+      "kazakh": "Келін түсіру",
+      "slug": "kelin-tusiru",
+      "sections": 9
+    },
+    {
+      "id": 61,
+      "kazakh": "Беташар",
+      "slug": "betashar",
+      "sections": 9
+    },
+    {
+      "id": 62,
+      "kazakh": "Бата беру",
+      "slug": "bata-beru",
+      "sections": 9
+    },
+    {
+      "id": 63,
+      "kazakh": "Тоқымқағар",
+      "slug": "toqymqagar",
+      "sections": 9
+    },
+    {
+      "id": 64,
+      "kazakh": "Ас беру",
+      "slug": "as-beru",
+      "sections": 9
+    },
+    {
+      "id": 65,
+      "kazakh": "Жоқтау",
+      "slug": "joqtau",
+      "sections": 9
+    },
+    {
+      "id": 66,
+      "kazakh": "Көңіл айту",
+      "slug": "konil-aitu",
+      "sections": 9
+    },
+    {
+      "id": 67,
+      "kazakh": "Жылу беру",
+      "slug": "jylu-beru",
+      "sections": 9
+    },
+    {
+      "id": 68,
+      "kazakh": "Наурыз көже",
+      "slug": "nauryz-koje",
+      "sections": 9
+    },
+    {
+      "id": 69,
+      "kazakh": "Көрісу",
+      "slug": "korisu",
+      "sections": 9
+    },
+    {
+      "id": 70,
+      "kazakh": "Сәлем салу",
+      "slug": "salem-salu",
+      "sections": 9
+    },
+    {
+      "id": 71,
+      "kazakh": "Ел",
+      "slug": "el",
+      "sections": 9
+    },
+    {
+      "id": 72,
+      "kazakh": "Жер",
+      "slug": "zher",
+      "sections": 9
+    },
+    {
+      "id": 73,
+      "kazakh": "Отан",
+      "slug": "otan",
+      "sections": 9
+    },
+    {
+      "id": 74,
+      "kazakh": "Елдік",
+      "slug": "eldik",
+      "sections": 9
+    },
+    {
+      "id": 75,
+      "kazakh": "Ерлік",
+      "slug": "erlik",
+      "sections": 9
+    },
+    {
+      "id": 76,
+      "kazakh": "Бостандық",
+      "slug": "bostandyq",
+      "sections": 9
+    },
+    {
+      "id": 77,
+      "kazakh": "Азаттық",
+      "slug": "azattyq",
+      "sections": 9
+    },
+    {
+      "id": 78,
+      "kazakh": "Билер кеңесі",
+      "slug": "biler-kenesi",
+      "sections": 9
+    },
+    {
+      "id": 79,
+      "kazakh": "Би",
+      "slug": "bi",
+      "sections": 9
+    },
+    {
+      "id": 80,
+      "kazakh": "Хан",
+      "slug": "khan",
+      "sections": 9
+    },
+    {
+      "id": 81,
+      "kazakh": "Батыр",
+      "slug": "batyr",
+      "sections": 9
+    },
+    {
+      "id": 82,
+      "kazakh": "Жырау",
+      "slug": "zhyrau",
+      "sections": 9
+    },
+    {
+      "id": 83,
+      "kazakh": "Ақсүйек",
+      "slug": "aqsuiek",
+      "sections": 9
+    },
+    {
+      "id": 84,
+      "kazakh": "Қарасүйек",
+      "slug": "qarasuiek",
+      "sections": 9
+    },
+    {
+      "id": 85,
+      "kazakh": "Алаш",
+      "slug": "alash",
+      "sections": 9
+    },
+    {
+      "id": 86,
+      "kazakh": "Жан",
+      "slug": "jan",
+      "sections": 9
+    },
+    {
+      "id": 87,
+      "kazakh": "Рух",
+      "slug": "rukh",
+      "sections": 9
+    },
+    {
+      "id": 88,
+      "kazakh": "Тағдыр",
+      "slug": "tagdyr",
+      "sections": 9
+    },
+    {
+      "id": 89,
+      "kazakh": "Несібe",
+      "slug": "nesibe",
+      "sections": 9
+    },
+    {
+      "id": 90,
+      "kazakh": "Нәпсі",
+      "slug": "napsi",
+      "sections": 9
+    },
+    {
+      "id": 91,
+      "kazakh": "Құдайы қонақ",
+      "slug": "qudaiy-qonaq",
+      "sections": 9
+    },
+    {
+      "id": 92,
+      "kazakh": "Дүние",
+      "slug": "dunie",
+      "sections": 9
+    },
+    {
+      "id": 93,
+      "kazakh": "Фәни мен бақи",
+      "slug": "fani-men-baqi",
+      "sections": 9
+    },
+    {
+      "id": 94,
+      "kazakh": "Киіз үй",
+      "slug": "kiiz-ui",
+      "sections": 9
+    },
+    {
+      "id": 95,
+      "kazakh": "Шаңырақ",
+      "slug": "shanyraq",
+      "sections": 9
+    },
+    {
+      "id": 96,
+      "kazakh": "Домбыра",
+      "slug": "dombyra",
+      "sections": 9
+    },
+    {
+      "id": 97,
+      "kazakh": "Күй",
+      "slug": "kuy",
+      "sections": 9
+    },
+    {
+      "id": 98,
+      "kazakh": "Киіз",
+      "slug": "kiiz",
+      "sections": 9
+    },
+    {
+      "id": 99,
+      "kazakh": "Төр",
+      "slug": "tor",
+      "sections": 9
+    },
+    {
+      "id": 100,
+      "kazakh": "Қамшы",
+      "slug": "qamshy",
+      "sections": 9
+    }
+  ]
+}

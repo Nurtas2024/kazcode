@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Values and Worldview",
+    "description": "Values, ethics and ideas that shape personal and collective life.",
+    "count": 20
+  },
+  {
+    "id": 2,
+    "title": "Hospitality and Mutual Assistance",
+    "description": "Practices of welcome, reciprocity and community support.",
+    "count": 15
+  },
+  {
+    "id": 3,
+    "title": "Family, Kinship and Generational Continuity",
+    "description": "Kinship, ancestry and relationships between generations.",
+    "count": 15
+  },
+  {
+    "id": 4,
+    "title": "Traditions, Rituals and Life-Cycle Practices",
+    "description": "Ceremonies and practices marking important moments in life.",
+    "count": 20
+  },
+  {
+    "id": 5,
+    "title": "Historical, Social and National Concepts",
+    "description": "Institutions, identities and ideas from Kazakh history and society.",
+    "count": 15
+  },
+  {
+    "id": 6,
+    "title": "Spiritual and Philosophical Concepts",
+    "description": "Spiritual, religious and philosophical understandings.",
+    "count": 8
+  },
+  {
+    "id": 7,
+    "title": "Material Culture and Traditional Lifestyle",
+    "description": "Objects, spaces and art forms in traditional cultural life.",
+    "count": 7
+  }
+]
